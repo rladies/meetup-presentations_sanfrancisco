@@ -4,6 +4,21 @@
 
 R-Ladies San Francisco meetup presentations and materials
 
+## Upcoming events
+Please get in touch with us through our [meetup page](https://www.meetup.com/rladies-san-francisco/)
+
+## 2019
+* January - [Lightning Talks!](https://www.meetup.com/rladies-san-francisco/events/257411285/)
+
+
+
+## Further information
+
+Checkout our [Meetup page](https://www.meetup.com/rladies-san-francisco/).
+
+Follow us on [Twitter](https://twitter.com/rladiessf).
+
+We follow the [Code of Conduct](https://github.com/rladies/starter-kit/wiki/Code-of-Conduct) and encourage participants to read [Rules & Guidelines of R-Ladies](https://github.com/rladies/starter-kit/blob/master/R-Ladies_RulesGuidelines.pdf).
 
 
 
