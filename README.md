@@ -9,6 +9,11 @@ Please get in touch with us through our [meetup page](https://www.meetup.com/rla
 
 ## 2019
 * January - [Lightning Talks!](https://www.meetup.com/rladies-san-francisco/events/257411285/)
+- sf paRks: Analyzing Park Maintenance with R (by Emily Vontsolos)[slides]()
+- The making of a visual resume (by Diya Das)
+- Random Problems with R (by Kellie Ottoboni)
+- Programming with dplyr: Quasiquotation and Quosures (by Ankur Bhatia)
+- Scoped verbs: A subtitle (by Sara Altman)
 
 
 
