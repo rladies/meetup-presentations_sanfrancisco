@@ -13,7 +13,7 @@ How to use R in Jupyter Notebooks as an alternative to R Studio.
 
 ### 3. Analyzing Park Maintenance with R by Emily Vontsolos
 
-Using R from data import to visualization, the Parks Maintenance team has built a data pipeline using RForcecom, and tidyverse pkgs to clean, analyze, and visualize the data. While this system has advanced the analytical strength of reporting, there are also challenges with using R for old school, PDF-style, reports. These challenges, and some upcoming improvements will be explored during this talk.
+Using R from data import to visualization, the Parks Maintenance team has built a data pipeline using RForcecom, and tidyverse pkgs to clean, analyze, and visualize the data. While this system has advanced the analytical strength of reporting, there are also challenges with using R for old school, PDF-style, reports. These challenges, and some upcoming improvements will be explored in the talk.
 
 ### 4. Random Problems with R by Kellie Ottoboni
 
