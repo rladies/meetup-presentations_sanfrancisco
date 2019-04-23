@@ -10,6 +10,7 @@ assignees: ''
 **Possible date**: WHEN ARE YOU PLANNING TO HAVE THE MEETUP?
 **Where:**  WHERE IS THIS EVENT HAPPENING?
 **Format:** WHAT IS THE FORMAT? (tutorial? workshop? lightning talks? hackathon? talks? project night?)
+
 **Event organizer:** WHO IS ORGANIZING IT?
 
 - [ ] Find a place to host
