@@ -9,4 +9,4 @@ R-Ladies 2019 Speaker Details
 |Jan-22|Sara Altman|Teaching visualization and ggplot2|||[skaltman](https://github.com/skaltman)|
 |Jan-22|Ankur Bhatia|Programming with dplyr: Quasiquotation and Quosures||||
 |Feb-7|Nick Tierney|A friendly introduction to writing an R package|[nj_tierney](https://twitter.com/nj_tierney)||[njtierney](https://github.com/njtierney)|
-
+|Jul-17|Matthew Brower|Using Python from R with reticulate|||[MatthewBrower](https://github.com/MatthewBrower)|
