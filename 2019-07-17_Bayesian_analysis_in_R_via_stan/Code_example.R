@@ -181,7 +181,7 @@ my_priors <- c(set_prior("normal(0,10)", class = "b"),
 
 my_prior_model <- brm(mpg ~ wt + am + (1|cyl), 
     data = mtcars, 
-    prior = prior)
+    prior = my_priors)
 
 
 
